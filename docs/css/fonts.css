@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Yandex Sans Display Regular';
+    src: url('../fonts/YandexSansDisplay-Regular/YandexSansDisplay-Regular.eot');
+    src:
+        url('../fonts/YandexSansDisplay-Regular/YandexSansDisplay-Regular.woff') format('woff'),
+        url('../fonts/YandexSansDisplay-Regular/YandexSansDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yandex Sans Display Bold';
+    src: url('../fonts/YandexSansDisplay-Bold/YandexSansDisplay-Bold.eot');
+    src: 
+        url('../fonts/YandexSansDisplay-Bold/YandexSansDisplay-Bold.woff') format('woff'),
+        url('../fonts/YandexSansDisplay-Bold/YandexSansDisplay-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
