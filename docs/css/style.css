@@ -418,8 +418,8 @@ a {
 
 @media (max-width: 950px) {
   body {
-    font-size: 15px;
-    line-height: 18px;
+    font-size: 16px;
+    line-height: 20px;
   }
   .header__title {
     font-size: 38px;
@@ -458,8 +458,8 @@ a {
 
 @media (max-width: 500px) {
   body {
-    font-size: 12px;
-    line-height: 15px;
+    font-size: 14px;
+    line-height: 17px;
   }
   .reg__form-input {
     font-size: 12px;
